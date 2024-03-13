@@ -1,6 +1,6 @@
 {
   "name": "aromateh17",
-  "version": "1.1.5",
+  "version": "1.1.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
